@@ -10,11 +10,11 @@
 
 ## 1.0.0-beta.1 - November 25, 2021
 
-The .NET 6.0.0 Preview 1 and .NET SDK 6.0.100-preview.1.21103.13 releases are available for download. The latest 6.0 release is always listed at [.NET 6.0 Releases](../README.md).
+The latest release is always listed at [Releases](../README.md).
 
-## What's new in .NET 6 Preview 1
+### 버그를 알려주세요
 
-.NET 6 is the next major release of .NET following .NET 5.0. You can see some of the new features available with .NET 6 Preview 1 at [dotnet/core #5853](https://github.com/dotnet/core/issues/5853).
+Report bug at [heenf22/download #1](https://github.com/heenf22/download/issues/1).
 
 See the [.NET][dotnet-blog], [EF Core][ef-blog] and [ASP.NET Core][aspnet-blog] blogs for additional details.
 Here is list of some of the additions and updates we're excited to bring in Preview 1.
