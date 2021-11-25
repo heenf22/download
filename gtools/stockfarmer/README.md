@@ -1,6 +1,8 @@
 # Download Stock Farmer
 
-주식 농부 윈도우즈 데스크탑 프로그램입니다.
+주식 농부 윈도우즈 데스크탑 프로그램
+
+[G.Tools](../README.md)
 
 ## 1.0
 
@@ -10,66 +12,23 @@
 
 ## 1.0.0-beta.1 - November 25, 2021
 
-The latest release is always listed at [Releases](../README.md).
+### Downloads
 
-### 버그를 알려주세요
-
-Report bug at [heenf22/download #1](https://github.com/heenf22/download/issues/1).
-
-See the [.NET][dotnet-blog], [EF Core][ef-blog] and [ASP.NET Core][aspnet-blog] blogs for additional details.
-Here is list of some of the additions and updates we're excited to bring in Preview 1.
-
-* EntityFramework Core: [bugs][ef_bugs] | [features][ef_features]
-* .NET SDK [bugs][sdk_bugs]
-
-## Downloads
-
-|           | Installer<sup>1</sup> | Binaries<sup>1</sup> |
-| --------- | :-------------------: | :------------------: |
-| Windows   | [x86][dotnet-sdk-win-x86.exe] \| [x64][dotnet-sdk-win-x64.exe] | [x86][dotnet-sdk-win-x86.zip] \| [x64][dotnet-sdk-win-x64.zip] |
-| macOS     | -  | -  |
-| Linux     | -  | -  |
-|  | [Checksums][checksums-sdk] | [Checksums][checksums-sdk] |
-
-</br>
-
-1. Includes the .NET Runtime and ASP.NET Core Runtime
-2. For hosting stand-alone apps on Windows Servers. Includes the ASP.NET Core Module for IIS and can be installed separately on servers without installing .NET Runtime.
-
-</br>
-
-The .NET SDK includes a matching updated .NET Runtime. Downloading the Runtime or ASP.NET Core packages is not needed when installing the SDK.
-
-You can check your .NET SDK version by running the following command. The example version shown is for this release.
-
-```console
-$ dotnet --version
-6.0.100-preview.1.21103.13
-```
-
-### Mobile Workload Downloads
-
-.NET 6 introduces Android and iOS SDKs for developing native mobile applications. These provide the foundational mobile pieces for the new [.NET Multi-platform App UI](https://github.com/dotnet/maui). See [dotnet/net6-mobile-samples](https://github.com/dotnet/net6-mobile-samples) for additional setup instructions and sample mobile projects you can run today.
+|           | Installer | Binaries |
+| --------- | :-------: | :------: |
+| Windows   | [x86][stock-farmer-win-x86.exe] \| [x64][stock-farmer-win-x64.exe] | [x86][stock-farmer-win-x86.zip] \| [x64][stock-farmer-win-x64.zip] |
+| macOS     | - | - |
+| Linux     | - | - |
+|           | [Checksums][checksums-sdk] | [Checksums][checksums-sdk] |
 
 **Prerequisites**: Install the [.NET SDK](#downloads) for your platform before installing the mobile workloads below.
 
 |           | Android SDK Installer                        | iOS SDK Installer                 |
-| --------- | :------------------------------------------:     | :----------------------:                 |
+| --------- | :------------------------------------------: | :----------------------:                 |
 | Windows   | [x64][android-win] | [x64][ios-win]  |
 | macOS   | [x64][android-mac] | [x64][ios-mac]  |
 
 </br>
-
-Visit [.NET Documentation](https://docs.microsoft.com/dotnet/core/) to learn about .NET, for building many different types of applications.
-
-
-## Docker Images
-
-The [.NET Docker images](https://hub.docker.com/_/microsoft-dotnet) have been updated for this release. The [.NET Docker samples](https://github.com/dotnet/dotnet-docker/blob/main/samples/README.md) show various ways to use .NET and Docker together. You can use the following command to try running the latest .NET 6.0 release in containers:
-
-```console
-docker run --rm mcr.microsoft.com/dotnet/samples
-```
 
 The following repos have been updated.
 
@@ -79,12 +38,7 @@ The following repos have been updated.
 * [dotnet/runtime-deps](https://hub.docker.com/_/microsoft-dotnet-runtime-deps/): .NET Runtime Dependencies
 * [dotnet/samples](https://hub.docker.com/_/microsoft-dotnet-samples/): .NET Samples
 
-## Visual Studio Compatibility
-
-You need [Visual Studio 16.9 Preview 4](https://visualstudio.microsoft.com) or later to use .NET 6.0 on Windows. On macOS, you need the latest version of [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/). The [C# extension](https://code.visualstudio.com/docs/languages/dotnet) for [Visual Studio Code](https://code.visualstudio.com/) supports .NET 6.0 and C# 9.
-
-
-## Feedback
+### Feedback
 
 Your feedback is important and appreciated. We've created an issue at [heenf22/download #1](https://github.com/heenf22/download/issues/1) for your questions and comments.
 
