@@ -24,11 +24,11 @@ Here is list of some of the additions and updates we're excited to bring in Prev
 
 ## Downloads
 
-|           | Installer<sup>1</sup>                        | Binaries<sup>1</sup>                 |
-| --------- | :------------------------------------------:     | :----------------------:                 |
+|           | Installer<sup>1</sup> | Binaries<sup>1</sup> |
+| --------- | :-------------------: | :------------------: |
 | Windows   | [x86][dotnet-sdk-win-x86.exe] \| [x64][dotnet-sdk-win-x64.exe] | [x86][dotnet-sdk-win-x86.zip] \| [x64][dotnet-sdk-win-x64.zip] |
-| macOS     |   |   |
-| Linux     |   |   |
+| macOS     | -  | -  |
+| Linux     | -  | -  |
 |  | [Checksums][checksums-sdk] | [Checksums][checksums-sdk] |
 
 </br>
