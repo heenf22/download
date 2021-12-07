@@ -44,6 +44,9 @@ Your feedback is important and appreciated. We've created an issue at [heenf22/d
 
 [//]: # ( Etc site link )
 
+[stock-farmer-1.0.0-win-x86.exe]: https://github.com/heenf22/download/tree/main/gtools/stockfarmer/1.0/stock-farmer-1.0.0-win-x86.exe
+[stock-farmer-1.0.0-win-x64.exe]: https://github.com/heenf22/download/tree/main/gtools/stockfarmer/1.0/stock-farmer-1.0.0-win-x64.exe
+
 [blob-runtime]: https://dotnetcli.blob.core.windows.net/dotnet/Runtime/
 [blob-sdk]: https://dotnetcli.blob.core.windows.net/dotnet/Sdk/
 [release-notes]: https://github.com/dotnet/core/blob/main/release-notes/6.0/preview/6.0.0-preview.1.md
