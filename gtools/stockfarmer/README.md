@@ -16,7 +16,7 @@
 
 |           | Installer | Binaries |
 | --------- | :-------: | :------: |
-| Windows   | [x86][stock-farmer-win-x86.exe] | [x86][stock-farmer-win-x86.zip] |
+| Windows   | [x86][stock-farmer-1.0.0-win-x86] | [x86][stock-farmer-win-x86.zip] |
 | macOS     | - | - |
 | Linux     | - | - |
 |           | [Checksums][checksums-sdk] | [Checksums][checksums-sdk] |
