@@ -10,7 +10,7 @@
 
 ## 1.0.0-preview.1
 
-## 1.0.0-beta.1 - November 25, 2021
+## 1.0.0.0-beta.1 - December 25, 2021
 
 ### Downloads
 
