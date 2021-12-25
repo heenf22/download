@@ -16,7 +16,7 @@
 
 |           | Installer | Binaries |
 | --------- | :-------: | :------: |
-| Windows   | [x86][stock-farmer-win-x86.exe] \| [x64][stock-farmer-win-x64.exe] | [x86][stock-farmer-win-x86.zip] \| [x64][stock-farmer-win-x64.zip] |
+| Windows   | [x86][stock-farmer-1.0.0-win-x86.exe] | [x86][stock-farmer-win-x86.zip] |
 | macOS     | - | - |
 | Linux     | - | - |
 |           | [Checksums][checksums-sdk] | [Checksums][checksums-sdk] |
@@ -42,6 +42,11 @@ The following repos have been updated.
 
 Your feedback is important and appreciated. We've created an issue at [heenf22/download #1](https://github.com/heenf22/download/issues/1) for your questions and comments.
 
+[//]: # ( Etc site link )
+
+[stock-farmer-1.0.0-win-x86.exe]: https://github.com/heenf22/download/tree/main/gtools/stockfarmer/1.0/stock-farmer-1.0.0-win-x86.exe
+[stock-farmer-1.0.0-win-x64.exe]: https://github.com/heenf22/download/tree/main/gtools/stockfarmer/1.0/stock-farmer-1.0.0-win-x64.exe
+
 [blob-runtime]: https://dotnetcli.blob.core.windows.net/dotnet/Runtime/
 [blob-sdk]: https://dotnetcli.blob.core.windows.net/dotnet/Sdk/
 [release-notes]: https://github.com/dotnet/core/blob/main/release-notes/6.0/preview/6.0.0-preview.1.md
@@ -66,7 +71,7 @@ Your feedback is important and appreciated. We've created an issue at [heenf22/d
 [sdk_bugs]: https://github.com/dotnet/sdk/issues?q=is%3Aissue+is%3Aclosed+milestone%3A6.0.1xx
 [linux-packages]: 6.0.0-preview.1-install-instructions.md
 
-[//]: # ( Runtime 6.0.0-preview.1.21102.12)
+[//]: # ( Runtime 6.0.0-preview.1.21102.12 )
 [dotnet-runtime-linux-arm.tar.gz]: https://download.visualstudio.microsoft.com/download/pr/4e51a05a-48d9-43e7-b01f-d310c72bccec/9d0afbd7768e9375b17242849a5dfb27/dotnet-runtime-6.0.0-preview.1.21102.12-linux-arm.tar.gz
 [dotnet-runtime-linux-arm64.tar.gz]: https://download.visualstudio.microsoft.com/download/pr/5e0d0c82-d02e-4538-9368-a811ca5e2e5d/d466e46d5a5902f125557890369bec77/dotnet-runtime-6.0.0-preview.1.21102.12-linux-arm64.tar.gz
 [dotnet-runtime-linux-musl-arm64.tar.gz]: https://download.visualstudio.microsoft.com/download/pr/982f4116-9fb6-45c6-9dc6-91c468448d75/4e4294ac124e54a5bfe65a85a4c1c781/dotnet-runtime-6.0.0-preview.1.21102.12-linux-musl-arm64.tar.gz
@@ -81,11 +86,11 @@ Your feedback is important and appreciated. We've created an issue at [heenf22/d
 [dotnet-runtime-win-x86.exe]: https://download.visualstudio.microsoft.com/download/pr/a911ac72-40ea-4ae1-a2e8-ab99c52c8789/e3fece89d74d33e1b431248ed9b6d021/dotnet-runtime-6.0.0-preview.1.21102.12-win-x86.exe
 [dotnet-runtime-win-x86.zip]: https://download.visualstudio.microsoft.com/download/pr/000dc492-3559-4c08-b90a-1a404b1a6fb0/574470f804128905a60ec2214de57262/dotnet-runtime-6.0.0-preview.1.21102.12-win-x86.zip
 
-[//]: # ( WindowsDesktop 6.0.0-preview.1.21103.5)
+[//]: # ( WindowsDesktop 6.0.0-preview.1.21103.5 )
 [windowsdesktop-runtime-win-x64.exe]: https://download.visualstudio.microsoft.com/download/pr/f0b993bb-ac67-4e10-b2b3-193c426dbb32/25aff17ca340404619c01ce5c3b863e9/windowsdesktop-runtime-6.0.0-preview.1.21103.5-win-x64.exe
 [windowsdesktop-runtime-win-x86.exe]: https://download.visualstudio.microsoft.com/download/pr/4dcdf96f-efab-4e31-9958-a94d9e2d9941/55ba1027551e3c6c554c4687a2e31abc/windowsdesktop-runtime-6.0.0-preview.1.21103.5-win-x86.exe
 
-[//]: # ( ASP 6.0.0-preview.1.21103.6)
+[//]: # ( ASP 6.0.0-preview.1.21103.6 )
 [aspnetcore-runtime-linux-arm.tar.gz]: https://download.visualstudio.microsoft.com/download/pr/f73111b7-fe98-46b5-8ee2-2daaa9dcd8f8/0e67eddf63fd2921f3712612be496762/aspnetcore-runtime-6.0.0-preview.1.21103.6-linux-arm.tar.gz
 [aspnetcore-runtime-linux-arm64.tar.gz]: https://download.visualstudio.microsoft.com/download/pr/3071a61a-7fba-46b7-906f-0ccbf376e59e/7fbeb61db58c41427123d67e38efb0ea/aspnetcore-runtime-6.0.0-preview.1.21103.6-linux-arm64.tar.gz
 [aspnetcore-runtime-linux-musl-arm64.tar.gz]: https://download.visualstudio.microsoft.com/download/pr/2276322a-ce67-4751-b8cc-57203ed8b312/787fdcea85f8dfeea88cb64c5f63bfa2/aspnetcore-runtime-6.0.0-preview.1.21103.6-linux-musl-arm64.tar.gz
