@@ -4,11 +4,11 @@
 
 [G.Tools](../README.md)
 
-## 1.0
+## 1.0.0.0
 
-## 1.0.0-rc.1
+## 1.0.0.0-rc.1
 
-## 1.0.0-preview.1
+## 1.0.0.0-preview.1
 
 ## 1.0.0.0-beta.1 - December 25, 2021
 
@@ -16,7 +16,7 @@
 
 |           | Installer | Binaries |
 | --------- | :-------: | :------: |
-| Windows   | [x86][stock-farmer-1.0.0-win-x86.exe] | [x86][stock-farmer-win-x86.zip] |
+| Windows   | [x86][stock-farmer-1.0.0.0-beta1-win-x86.exe] | [x86][stock-farmer-1.0.0.0-beta1-win-x86.zip] |
 | macOS     | - | - |
 | Linux     | - | - |
 |           | [Checksums][checksums-sdk] | [Checksums][checksums-sdk] |
@@ -43,9 +43,8 @@ The following repos have been updated.
 Your feedback is important and appreciated. We've created an issue at [heenf22/download #1](https://github.com/heenf22/download/issues/1) for your questions and comments.
 
 [//]: # ( Etc site link )
-
-[stock-farmer-1.0.0-win-x86.exe]: https://github.com/heenf22/download/tree/main/gtools/stockfarmer/1.0/stock-farmer-1.0.0-win-x86.exe
-[stock-farmer-1.0.0-win-x64.exe]: https://github.com/heenf22/download/tree/main/gtools/stockfarmer/1.0/stock-farmer-1.0.0-win-x64.exe
+[stock-farmer-1.0.0.0-beta1-win-x86.exe]: https://github.com/heenf22/download/tree/main/gtools/stockfarmer/release/setup-gtools-stockfarmer-1.0.0.0-beta1.exe
+[stock-farmer-1.0.0.0-beta1-win-x64.zip]: https://github.com/heenf22/download/tree/main/gtools/stockfarmer/release/gtools-stockfarmer-1.0.0.0-beta1.zip
 
 [blob-runtime]: https://dotnetcli.blob.core.windows.net/dotnet/Runtime/
 [blob-sdk]: https://dotnetcli.blob.core.windows.net/dotnet/Sdk/
