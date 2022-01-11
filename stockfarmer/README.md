@@ -20,7 +20,7 @@
 
 ### Feedback
 
-Your feedback is important and appreciated. We've created an issue at [heenf22/download #1](https://github.com/heenf22/download/issues/1) for your questions and comments.
+Your feedback is important and appreciated. We've created an issue at [heenf22/download/issues #1](https://github.com/heenf22/download/issues/1) for your questions and comments.
 
 
 [//]: # ( Download link )
