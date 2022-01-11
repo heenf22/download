@@ -14,4 +14,4 @@
 
 [//]: # ( README.md link )
 [readme-stockfarmer]: ./stockfarmer/README.md
-[download-dotnet-6]: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+[download-dotnet-6]: https://dotnet.microsoft.com/en-us/download/dotnet/6.0 {:target="_blank"}
