@@ -6,12 +6,13 @@
 
 ### Downloads
 
-|           | Installer | Binaries |
+| OS        | Installer | Binaries |
 | --------- | :-------: | :------: |
-| Windows   | [x86][setup-stockfarmer-1.0.0.0-beta1-win-x86.exe] | [x86][setup-stockfarmer-1.0.0.0-beta1-win-x86.zip] |
-| macOS     | - | - |
-| Linux     | - | - |
-|           | [Checksums][checksums-sdk] | [Checksums][checksums-sdk] |
+| Windows   | [✅ Supported][setup-stockfarmer-1.0.0.0-beta1-win-x86.exe] | [✅ Supported][setup-stockfarmer-1.0.0.0-beta1-win-x86.zip] |
+| macOS     | ❌ Not Supported | ❌ Not Supported |
+| Linux     | ❌ Not Supported | ❌ Not Supported |
+| Android   | ❌ Not Supported | ❌ Not Supported |
+| iOS       | ❌ Not Supported | ❌ Not Supported |
 
 ### Feedback
 
