@@ -2,13 +2,17 @@
 
 주식 농부 윈도우즈 데스크탑 프로그램
 
-## 1.0.0.0-beta.1 - December 25, 2021
+## 1.0.0.0 Beta 1 - 2021년 12월 25일
+
+## Bugs
+
+* 현재 트리 검색어 입력 후 [Refresh] 버튼 클릭시 CPU 점유율이 높아지는 현상이 있습니다. 주의하시기 바랍니다. 
 
 ### Downloads
 
 | OS        | Installer | Binaries |
 | --------- | :-------: | :------: |
-| Windows   | [✅ Supported][setup-stockfarmer-1.0.0.0-beta1-win-x86.exe] | [✅ Supported][setup-stockfarmer-1.0.0.0-beta1-win-x86.zip] |
+| Windows   | [x86][setup-stockfarmer-1.0.0.0-beta1-win-x86.exe] | [x86][setup-stockfarmer-1.0.0.0-beta1-win-x86.zip] |
 | macOS     | ❌ Not Supported | ❌ Not Supported |
 | Linux     | ❌ Not Supported | ❌ Not Supported |
 | Android   | ❌ Not Supported | ❌ Not Supported |
