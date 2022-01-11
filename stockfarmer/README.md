@@ -2,7 +2,7 @@
 
 주식 농부 윈도우즈 데스크탑 프로그램
 
-[G.Tools](../README.md)
+[Download HOME](../README.md)
 
 ## 1.0.0.0
 
