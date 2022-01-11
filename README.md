@@ -5,7 +5,7 @@
 주식 농부 프로그램은 저평가된 주식을 찾을 수 있도록 정보를 제공합니다.
 
 * Support OS : Windows
-* Dependancy : [.NET 6.0][download-dotnet-6]
+* Dependancy : [.NET 6.0][download-dotnet-6]{:target="_blank"}
 
 
 | App Name | Support OS  | Dependncy | Description |
@@ -14,4 +14,4 @@
 
 [//]: # ( README.md link )
 [readme-stockfarmer]: ./stockfarmer/README.md
-[download-dotnet-6]: https://dotnet.microsoft.com/en-us/download/dotnet/6.0 {:target="_blank"}
+[download-dotnet-6]: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
