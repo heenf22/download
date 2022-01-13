@@ -12,7 +12,7 @@
 
 | OS        | Installer | Binaries |
 | --------- | :-------: | :------: |
-| Windows   | [x86][setup-stockfarmer-1.0.0.0-beta1-win-x86.exe] | [x86][setup-stockfarmer-1.0.0.0-beta1-win-x86.zip] |
+| Windows   | [x86][setup-gtools-stockfarmer-1.0.0.0-beta1.exe] | [x86][setup-gtools-stockfarmer-1.0.0.0-beta1.zip] |
 | macOS     | ❌ Not Supported | ❌ Not Supported |
 | Linux     | ❌ Not Supported | ❌ Not Supported |
 | Android   | ❌ Not Supported | ❌ Not Supported |
@@ -24,5 +24,5 @@ Your feedback is important and appreciated. We've created an issue at [heenf22/d
 
 
 [//]: # ( Download link )
-[setup-stockfarmer-1.0.0.0-beta1-win-x86.exe]: https://github.com/heenf22/download/blob/main/stockfarmer/beta/setup-stockfarmer-1.0.0.0-beta1.exe
-[setup-stockfarmer-1.0.0.0-beta1-win-x86.zip]: https://github.com/heenf22/download/tree/main/stockfarmer/beta/setup-stockfarmer-1.0.0.0-beta1.zip
+[setup-gtools-stockfarmer-1.0.0.0-beta1.exe]: https://github.com/heenf22/download/blob/main/stockfarmer/beta/setup-gtools-stockfarmer-1.0.0.0-beta1.exe
+[setup-gtools-stockfarmer-1.0.0.0-beta1.zip]: https://github.com/heenf22/download/tree/main/stockfarmer/beta/setup-gtools-stockfarmer-1.0.0.0-beta1.zip
