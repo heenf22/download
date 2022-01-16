@@ -6,7 +6,7 @@
 
 ## Bugs
 
-* 현재 트리 검색어 입력 후 [Refresh] 버튼 클릭시 CPU 점유율이 높아지는 현상이 있습니다. 주의하시기 바랍니다. 
+* 현재 트리 검색어 입력 후 [Refresh] 버튼 클릭시 CPU 점유율이 높아지는 현상이 있습니다. 주의하시기 바랍니다.
 
 ### Downloads
 
@@ -21,7 +21,6 @@
 ### Feedback
 
 Your feedback is important and appreciated. We've created an issue at [heenf22/download/issues #1](https://github.com/heenf22/download/issues/1) for your questions and comments.
-
 
 [//]: # ( Download link )
 [setup-gtools-stockfarmer-1.0.0.0-beta1.exe]: https://github.com/heenf22/download/blob/main/stockfarmer/beta/setup-gtools-stockfarmer-1.0.0.0-beta1.exe
