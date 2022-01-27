@@ -10,7 +10,7 @@
 
 ### Dependancy
 
-- [Microsoft .NET 6.0][download-dotnet-6.0.1-desktop-runtime]
+- [Microsoft .NET 6.0 Runtime][download-dotnet-6.0.1-desktop-runtime]
 - [Microsoft Edge WebView2][download-webview2]
 
 [//]: # ( README.md link )
