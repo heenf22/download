@@ -13,7 +13,7 @@
 - [Microsoft .NET 6.0][download-dotnet-6.0.1-desktop-runtime]
 - [Microsoft Edge WebView2][download-webview2]
 
-## 1.0.0.0 Alpha 1 - 2022년 1월 25일
+## 1.0.0.0 Alpha - 2022년 1월 27일
 
 ### Bugs
 
@@ -23,7 +23,7 @@
 
 | OS        | Installer | Binaries |
 | --------- | :-------: | :------: |
-| Windows   | [Any CPU][setup-gtools-stockfarmer-1.0.0.0-alpha1.exe] | ❌ Not Supported |
+| Windows   | [Any CPU][setup-gtools-stockfarmer-1.0.0.0-alpha.exe] | ❌ Not Supported |
 | macOS     | ❌ Not Supported | ❌ Not Supported |
 | Linux     | ❌ Not Supported | ❌ Not Supported |
 | Android   | ❌ Not Supported | ❌ Not Supported |
@@ -34,9 +34,7 @@
 Your feedback is important and appreciated. We've created an issue at [heenf22/download/issues #1](https://github.com/heenf22/download/issues/1) for your questions and comments.
 
 [//]: # ( Download link )
-[setup-gtools-stockfarmer-1.0.0.0-alpha1.exe]: https://github.com/heenf22/download/blob/main/stockfarmer/alpha/setup-gtools-stockfarmer-1.0.0.0-alpha1.exe
-[setup-gtools-stockfarmer-1.0.0.0-beta1.exe]: https://github.com/heenf22/download/blob/main/stockfarmer/beta/setup-gtools-stockfarmer-1.0.0.0-beta1.exe
-[setup-gtools-stockfarmer-1.0.0.0-beta1.zip]: https://github.com/heenf22/download/tree/main/stockfarmer/beta/setup-gtools-stockfarmer-1.0.0.0-beta1.zip
+[setup-gtools-stockfarmer-1.0.0.0-alpha.exe]: https://github.com/heenf22/download/blob/main/stockfarmer/alpha/setup-gtools-stockfarmer-1.0.0.0-alpha.exe
 
 [//]: # ( Dependancy link )
 [download-dotnet-6.0.1-desktop-runtime]: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
